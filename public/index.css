@@ -1,0 +1,17 @@
+.column {
+    float: left;
+    width: 25%;
+    background-color: rgb(146, 139, 139);
+  }
+  
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    background-color: rgb(255, 255, 255)
+  }
+  .btn{
+
+    width: 25%;
+  }
